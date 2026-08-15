@@ -93,7 +93,6 @@
 
 </div>
 
-### Technologies
 
 # 📝 Research & Writing
 
