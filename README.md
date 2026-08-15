@@ -46,10 +46,13 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma,canva,photopea" />
+<img src="https://skillicons.dev/icons?i=figma" width="48" height="48" />
+
+<img src="https://cdn.simpleicons.org/canva" width="48" height="48" />
+
+<img src="https://cdn.simpleicons.org/photopea" width="48" height="48" />
 
 </div>
-
 
 # ☁️ Cloud & Deployment
 
