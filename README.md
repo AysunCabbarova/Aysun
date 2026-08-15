@@ -46,13 +46,9 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=figma" />
-
-<br><br>
-
-<a href="https://www.canva.com/">
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
-</a>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="70" height="70" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="70" height="70" />
 
 </div>
 
