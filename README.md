@@ -46,11 +46,10 @@
 
 <div align="center">
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="65" height="65" />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="65" height="65" />
+<img src="https://skillicons.dev/icons?i=figma,canva" />
 
 </div>
+
 # ☁️ Cloud & Deployment
 
 <div align="center">
