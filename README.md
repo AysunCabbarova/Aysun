@@ -79,29 +79,11 @@
 
 <br><br>
 
-[![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
+<a href="https://www.canva.com/">
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</a>
 
 </div>
-
-### Areas
-
-- UI Design
-- UX Design
-- User Experience
-- Responsive Interfaces
-- Design Systems
-- Prototyping
-- User-centered Design
-- Accessibility
-- Mobile-first Development
-- Wireframing
-- User Flow Design
-- Interface Design
-- Visual Design
-- Figma
-- Canva
-
----
 
 # ☁️ Cloud & Deployment
 
