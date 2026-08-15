@@ -28,26 +28,7 @@
 
 </div>
 
-### Technologies
 
-- HTML5
-- CSS3
-- JavaScript
-- TypeScript
-- React
-- Next.js
-- Tailwind CSS
-- Bootstrap
-- Sass / SCSS
-- Redux
-- React Router
-- Vite
-- Responsive Web Design
-- DOM Manipulation
-- Async JavaScript
-- Fetch API
-
----
 
 # ⚙️ Backend Development
 
