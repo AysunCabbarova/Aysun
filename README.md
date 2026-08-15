@@ -1,182 +1,405 @@
-# 👋 Salam, mən Aysun Cabbarovayam!
+# Aysun Cabbarova
 
-### 🌍 Political Science Student | Aspiring Diplomat | Full-Stack Developer in Progress
-
-Mən **Dövlət və İctimai Münasibətlər** sahəsində təhsil alan və paralel olaraq proqramlaşdırma, süni intellekt və beynəlxalq münasibətlər üzrə özünü inkişaf etdirən tələbəyəm.
-
-Məqsədim texnologiya ilə beynəlxalq münasibətləri birləşdirən layihələr yaratmaq, beynəlxalq təcrübə qazanmaq və gələcəkdə diplomatiya sahəsində fəaliyyət göstərməkdir.
+### Full-Stack Developer in Progress | Political Science Student | Technology & Research
 
 ---
 
-## 🚀 Hazırda nə üzərində işləyirəm?
+## 🧑‍💻 About Me
 
-* 💻 JavaScript öyrənirəm
-* 🐍 Python öyrənirəm
-* 🌐 Web layihələri hazırlayıram
-* 🇩🇪 Alman dilimi inkişaf etdirirəm
-* 🇬🇧 İngilis dilimi C1 səviyyəsinə çatdırmağa çalışıram
-* 📚 Beynəlxalq münasibətlər və diplomatiya üzrə araşdırmalar aparıram
-* 📝 Məqalələr və analitik yazılar hazırlayıram
-* 🌍 Beynəlxalq təhsil və karyera imkanlarına hazırlaşıram
-
----
-
-## 🎯 Uzunmüddətli məqsədlərim
-
-> **Technology × International Relations × Diplomacy**
-
-Gələcəkdə:
-
-* 🇩🇪 Almaniyada magistr təhsili
-* 🎓 DAAD və digər beynəlxalq təqaüdlər
-* 💻 IT sahəsində real iş təcrübəsi
-* 🌍 Beynəlxalq təşkilatlarda təcrübə
-* 🇦🇿 Diplomatik xidmət və dövlət idarəçiliyi
-* 🤝 Azərbaycan–Avropa əlaqələri üzrə fəaliyyət
+* 🎓 Political Science / State and Public Relations student
+* 💻 Currently building my skills in Full-Stack Development
+* 🌱 Learning JavaScript, Python, React, TypeScript and modern web technologies
+* 🔭 Building real-world web applications and personal projects
+* 📚 Interested in Artificial Intelligence, Web Development, Cybersecurity and Data
+* 🌍 Interested in International Relations, Geopolitics and Digital Diplomacy
+* 📝 Writing articles and research-based content
+* 🚀 Open to internships, freelance opportunities and collaborative projects
+* 🧠 Always learning, building and experimenting
 
 ---
 
-## 🧑‍💻 Tech Stack
+# 🛠️ Tech Stack
 
-### Frontend
+## 🌐 Frontend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux,vite" />
 
 </div>
 
-### Programming
+### Technologies
+
+* HTML5
+* CSS3
+* JavaScript
+* TypeScript
+* React
+* Next.js
+* Tailwind CSS
+* Bootstrap
+* Sass / SCSS
+* Redux
+* React Router
+* Vite
+* Responsive Web Design
+* REST APIs
+* JSON
+* DOM Manipulation
+* Async JavaScript
+* Fetch API
+
+---
+
+# ⚙️ Backend Development
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
+
+</div>
+
+### Technologies
+
+* Node.js
+* Express.js
+* Python
+* Django
+* FastAPI
+* REST API Development
+* Authentication
+* CRUD Applications
+* Server-side Development
+
+---
+
+# 🐍 Programming Languages
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,c" />
+
+</div>
+
+### Languages
+
+* JavaScript
+* TypeScript
+* Python
+* Java
+* C++
+* C
+
+---
+
+# 🗄️ Databases
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,firebase,supabase" />
+
+</div>
+
+### Database Technologies
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* SQLite
+* Firebase
+* Supabase
+* Database Design
+* SQL
+* CRUD Operations
+
+---
+
+# 🔌 APIs & Integration
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=postman,graphql" />
+
+</div>
+
+* REST APIs
+* API Integration
+* JSON
+* HTTP / HTTPS
+* Authentication
+* Postman
+* Fetch API
+* GraphQL
+
+---
+
+# 🤖 AI & Data
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+
+</div>
+
+Currently exploring:
+
+* Artificial Intelligence
+* Machine Learning
+* Generative AI
+* AI APIs
+* Python for Data Analysis
+* Data Visualization
+* Automation
+* Natural Language Processing
+* AI-powered Web Applications
+
+---
+
+# 🔐 Cybersecurity
+
+Currently learning and exploring:
+
+* Cybersecurity fundamentals
+* Web security
+* Authentication & Authorization
+* Network fundamentals
+* OWASP concepts
+* Secure API development
+* Basic penetration testing concepts
+* TryHackMe labs
+
+---
+
+# 🧰 Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,docker,vercel,npm" />
 
 </div>
 
 ### Tools
 
+* Git
+* GitHub
+* Visual Studio Code
+* Figma
+* Postman
+* Docker
+* Vercel
+* npm
+* GitHub Actions
+* Chrome DevTools
+
+---
+
+# ☁️ Cloud & Deployment
+
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker" />
 
 </div>
 
-### 📚 Currently Learning
+* Vercel
+* Netlify
+* Firebase
+* Docker
+* CI/CD fundamentals
+* Deployment
+* Environment Variables
+* Hosting
+
+---
+
+# 🎨 UI / UX
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nodejs,sql" />
+<img src="https://skillicons.dev/icons?i=figma" />
 
 </div>
+
+Interested in:
+
+* UI Design
+* UX Design
+* Responsive Interfaces
+* Design Systems
+* Prototyping
+* User-centered design
+* Accessibility
+* Mobile-first development
 
 ---
 
 # 📌 Featured Projects
 
-### 🌐 Personal Portfolio
+## 💎 BeautyHub
 
-My personal website containing my:
+A modern beauty-service platform connecting users with salons, beauty specialists and AI-powered beauty tools.
 
-* Projects
-* Skills
-* Certificates
-* Articles
-* Academic journey
-* Career goals
+### Features
 
-🔗 **Coming soon**
+* Salon discovery
+* Online booking
+* Service search
+* AI beauty assistant
+* AI hairstyle concepts
+* Beauty feed
+* Master profiles
+* Reviews
+* Beauty points
+* Event / bridal mode
+* Last-minute offers
+
+**Tech:** JavaScript · React · Node.js · API · Database
 
 ---
 
-### 🇩🇪 German Learning Platform
+## 🌍 Stickman
 
-A web application designed to help users learn German through:
+An educational information platform designed to present interesting knowledge in a simple and engaging format.
+
+### Topics
+
+* History
+* Politics
+* Science
+* Geography
+* Technology
+* International Relations
+* Interesting facts
+
+**Tech:** HTML · CSS · JavaScript · Python
+
+---
+
+## 🇩🇪 Language Learning Platform
+
+A web application for learning German and English.
+
+### Features
 
 * Vocabulary
 * Flashcards
 * Grammar
-* Tests
+* Quizzes
 * Progress tracking
+* Daily learning goals
+* Reading practice
+* Listening exercises
 
-**Tech:** HTML · CSS · JavaScript
-
-🔗 **Coming soon**
+**Tech:** JavaScript · React · API
 
 ---
 
-### 💼 CV & Career Assistant
+## 💼 Career & CV Assistant
 
-A platform designed to help students create CVs and prepare for international education and job applications.
+A platform designed to help students prepare for international education and employment.
 
-**Planned features:**
+### Features
 
 * CV builder
-* Skills analysis
-* Job recommendations
+* CV analysis
+* Skills tracking
+* Job search
+* Internship search
 * University application tracker
+* Application deadlines
+* Personal dashboard
 
-**Tech:** JavaScript · Python · API
-
-🔗 **Coming soon**
-
----
-
-### 🌍 International Relations Knowledge Platform
-
-A project focused on:
-
-* World politics
-* Diplomacy
-* International organizations
-* History
-* Geopolitics
-* Azerbaijan's foreign relations
-
-🔗 **Coming soon**
+**Tech:** React · TypeScript · Node.js · PostgreSQL
 
 ---
 
-### 🧠 AI Projects
+## 💰 Personal Finance Tracker
 
-I am interested in creating AI-powered tools that solve practical problems in:
+A personal finance management application.
 
-* Education
-* Career development
-* Languages
-* International relations
+### Features
 
-🔗 **Projects coming soon**
+* Income tracking
+* Expense tracking
+* Categories
+* Monthly statistics
+* Budget planning
+* Data visualization
+* Financial reports
+
+**Tech:** JavaScript · React · Python · SQL
+
+---
+
+## 🎓 University Application Assistant
+
+A platform that helps students organize international university applications.
+
+### Features
+
+* University database
+* Application deadlines
+* Requirements
+* GPA tracking
+* Language certificate tracking
+* Scholarship tracking
+* Application status
+
+**Tech:** React · TypeScript · Node.js · PostgreSQL
 
 ---
 
 # 📝 Research & Writing
 
-I am building a personal research portfolio around:
+I am interested in researching and writing about:
 
-* 🌍 International Relations
-* 🕊️ Diplomacy
-* 🇦🇿 Azerbaijan's Foreign Policy
-* 🇪🇺 European Politics
-* 🤖 Artificial Intelligence & Politics
-* 🔐 Cybersecurity & International Security
-* 🌐 Digital Diplomacy
-
-### 📚 Publications
-
-**Coming soon**
+* International Relations
+* Geopolitics
+* Diplomacy
+* European Politics
+* Azerbaijan's Foreign Policy
+* Artificial Intelligence
+* Technology & Society
+* Cybersecurity
+* Digital Diplomacy
+* Public Administration
+* International Security
 
 ---
 
 # 🌐 Languages
 
-| Language         | Level                 |
-| ---------------- | --------------------- |
-| 🇦🇿 Azerbaijani | Native                |
-| 🇹🇷 Turkish     | Advanced              |
-| 🇬🇧 English     | Learning → C1         |
-| 🇩🇪 German      | Learning → C1         |
-| 🇷🇺 Russian     | Intermediate/Advanced |
+| Language         | Level         |
+| ---------------- | ------------- |
+| 🇦🇿 Azerbaijani | Native        |
+| 🇹🇷 Turkish     | Advanced      |
+| 🇬🇧 English     | B2 → C1       |
+| 🇩🇪 German      | Learning → C1 |
+| 🇷🇺 Russian     | B2            |
+
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,python,postgres,docker" />
+
+</div>
+
+* Advanced JavaScript
+* React
+* TypeScript
+* Next.js
+* Node.js
+* Python
+* SQL
+* PostgreSQL
+* REST APIs
+* Git & GitHub
+* Docker
+* AI APIs
+* Cybersecurity fundamentals
 
 ---
 
@@ -184,7 +407,7 @@ I am building a personal research portfolio around:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&rank_icon=github" width="48%" />
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" width="48%" />
 
@@ -192,43 +415,78 @@ I am building a personal research portfolio around:
 
 ---
 
-# 📈 My Learning Journey
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" width="60%" />
+
+</div>
+
+---
+
+# 📈 My Development Journey
 
 ```text
-HTML / CSS
-     ↓
+HTML
+ ↓
+CSS
+ ↓
 JavaScript
-     ↓
+ ↓
 Git & GitHub
-     ↓
+ ↓
 Python
-     ↓
+ ↓
 React
-     ↓
+ ↓
 TypeScript
-     ↓
+ ↓
 Node.js
-     ↓
-SQL & APIs
-     ↓
-AI / Data
+ ↓
+SQL & PostgreSQL
+ ↓
+REST APIs
+ ↓
+Next.js
+ ↓
+Docker
+ ↓
+AI & Data
+ ↓
+Full-Stack Development
 ```
 
 ---
 
-# 🌟 Beyond Coding
+# 🧠 Areas of Interest
 
-Mənim maraq dairəm yalnız proqramlaşdırma ilə məhdudlaşmır.
+<div align="center">
 
-📚 Tarix
-🌍 Geosiyasət
-🤝 Diplomatiya
-🇪🇺 Avropa siyasəti
-🤖 Süni intellekt
-💻 Texnologiya
-🧠 Şəxsi inkişaf
-📖 Dil öyrənmək
-✍️ Araşdırma və yazıçılıq
+💻 Software Development
+🤖 Artificial Intelligence
+🔐 Cybersecurity
+📊 Data & Analytics
+🌐 Web Technologies
+🎨 UI/UX
+🌍 International Relations
+🏛️ Public Policy
+🕊️ Diplomacy
+📚 Research & Education
+
+</div>
+
+---
+
+# 🚀 What I'm Building
+
+* 🌐 Personal portfolio
+* 💻 Full-stack web applications
+* 🤖 AI-powered tools
+* 📚 Educational platforms
+* 🌍 International knowledge projects
+* 📊 Data-driven applications
+* 📝 Research and technology articles
 
 ---
 
@@ -236,11 +494,17 @@ Mənim maraq dairəm yalnız proqramlaşdırma ilə məhdudlaşmır.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge\&logo=linkedin)](https://linkedin.com/in/YOUR_USERNAME)
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge\&logo=vercel)](https://YOUR_PORTFOLIO.com)
+<a href="https://YOUR_PORTFOLIO.com">
+<img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail)](mailto:YOUR_EMAIL)
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -248,8 +512,6 @@ Mənim maraq dairəm yalnız proqramlaşdırma ilə məhdudlaşmır.
 
 <div align="center">
 
-### 💡 "Learn. Build. Research. Create impact."
-
-⭐ If you find my projects interesting, feel free to explore my repositories.
+### 💡 Learn • Build • Research • Create
 
 </div>
