@@ -101,30 +101,6 @@ I am interested in researching and writing about:
 
 </div>
 
-
-
----
-
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AysunCabbarova&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AysunCabbarova&layout=compact&hide_border=true" width="48%" />
-
-</div>
-
----
-
-# 🔥 GitHub Streak
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=AysunCabbarova&hide_border=true" width="60%" />
-
-</div>
-
 ---
 
 # 🔥 Contribution Streak
