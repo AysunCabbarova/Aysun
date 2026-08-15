@@ -103,19 +103,7 @@ I am interested in researching and writing about:
 
 </div>
 
-- Advanced JavaScript
-- React
-- TypeScript
-- Next.js
-- Node.js
-- Python
-- SQL
-- PostgreSQL
-- REST APIs
-- Git & GitHub
-- Docker
-- AI APIs
-- Cybersecurity Fundamentals
+
 
 ---
 
