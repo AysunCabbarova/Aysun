@@ -86,10 +86,10 @@ I am interested in researching and writing about:
 | Language | Level |
 |---|---|
 | 🇦🇿 Azerbaijani | Native |
-| 🇹🇷 Turkish | Advanced |
+| 🇹🇷 Turkish | Native |
 | 🇬🇧 English | B2 → C1 |
 | 🇩🇪 German | Learning → C1 |
-| 🇷🇺 Russian | B2 |
+| 🇷🇺 Russian | Native |
 
 ---
 
