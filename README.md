@@ -95,17 +95,6 @@
 
 ### Technologies
 
-- Vercel
-- Netlify
-- Firebase
-- Docker
-- CI/CD Fundamentals
-- Deployment
-- Environment Variables
-- Hosting
-
----
-
 # 📝 Research & Writing
 
 I am interested in researching and writing about:
