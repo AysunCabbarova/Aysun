@@ -24,25 +24,23 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass,redux,vite" />
+<img src="https://skillicons.dev/icons?i=html,css,js" />
 
 </div>
-
-
-
-# ⚙️ Backend Development
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,django,fastapi" />
-
-</div>
-
-
 
 ---
 
-# 🎨 UI / UX & Design
+## ⚙️ Programming & Backend
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+</div>
+
+---
+
+## 🎨 UI / UX & Design
 
 <div align="center">
 
@@ -54,14 +52,58 @@
 
 </div>
 
+### Areas
+
+- UI Design
+- UX Design
+- User Experience
+- Responsive Interfaces
+- Design Systems
+- Prototyping
+- User-centered Design
+- Accessibility
+- Mobile-first Development
+- Wireframing
+- User Flow Design
+- Interface Design
+- Visual Design
+- Graphic Design
+- Photo Editing
+
+---
+
 # ☁️ Cloud & Deployment
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase,docker" />
+<img src="https://skillicons.dev/icons?i=vercel,netlify,firebase" />
 
 </div>
 
+---
+
+# 📚 Currently Learning
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,postgres,docker" />
+
+</div>
+
+- Advanced JavaScript
+- React
+- TypeScript
+- Next.js
+- Node.js
+- SQL
+- PostgreSQL
+- REST APIs
+- Git & GitHub
+- Docker
+- AI APIs
+- Cybersecurity Fundamentals
+
+---
 
 # 📝 Research & Writing
 
@@ -93,15 +135,34 @@ I am interested in researching and writing about:
 
 ---
 
-# 📚 Currently Learning
+# 🧠 Areas of Interest
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,typescript,nextjs,nodejs,python,postgres,docker" />
+💻 Software Development  
+🤖 Artificial Intelligence  
+🌐 Web Technologies  
+🎨 UI/UX & Design  
+🌍 International Relations  
+🏛️ Public Policy  
+🕊️ Diplomacy  
+📚 Research & Education  
+📊 Data & Analytics  
+🔐 Cybersecurity  
 
 </div>
 
+---
 
+# 🚀 What I'm Building
+
+- 🌐 Personal Portfolio
+- 💻 Web Applications
+- 🤖 AI-powered Tools
+- 📚 Educational Platforms
+- 🌍 Information & Knowledge Platforms
+- 📊 Data-driven Applications
+- 📝 Research and Technology Articles
 
 ---
 
@@ -122,16 +183,6 @@ I am interested in researching and writing about:
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=AysunCabbarova&hide_border=true" width="60%" />
-
-</div>
-
----
-
-# 🔥 Contribution Streak
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" width="60%" />
 
 </div>
 
