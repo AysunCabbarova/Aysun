@@ -9,12 +9,12 @@
 - 🎓 Political Science / State and Public Relations student
 - 💻 Currently developing my skills in Full-Stack Development
 - 🌱 Learning JavaScript, Python, React, TypeScript and modern web technologies
-- 🔭 Building my knowledge through practical coding and continuous learning
-- 📚 Interested in Artificial Intelligence, Web Development and modern technologies
+- 🔭 Building web applications and personal projects
+- 📚 Interested in Artificial Intelligence, Web Development and Cybersecurity
 - 🌍 Interested in International Relations, Geopolitics and Digital Diplomacy
-- 📝 Interested in research, academic writing and knowledge sharing
+- 📝 Writing articles and research-based content
 - 🚀 Open to internships, freelance opportunities and collaborative projects
-- 🧠 Always learning, building and improving
+- 🧠 Always learning, building and experimenting
 
 ---
 
@@ -71,11 +71,15 @@
 
 ---
 
-# 🎨 UI / UX
+# 🎨 UI / UX & Design
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=figma" />
+
+<br><br>
+
+[![Canva](https://img.shields.io/badge/Canva-Design-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com/)
 
 </div>
 
@@ -83,12 +87,19 @@
 
 - UI Design
 - UX Design
+- User Experience
 - Responsive Interfaces
 - Design Systems
 - Prototyping
-- User-centered design
+- User-centered Design
 - Accessibility
-- Mobile-first development
+- Mobile-first Development
+- Wireframing
+- User Flow Design
+- Interface Design
+- Visual Design
+- Figma
+- Canva
 
 ---
 
@@ -106,7 +117,7 @@
 - Netlify
 - Firebase
 - Docker
-- CI/CD fundamentals
+- CI/CD Fundamentals
 - Deployment
 - Environment Variables
 - Hosting
@@ -163,7 +174,7 @@ I am interested in researching and writing about:
 - Git & GitHub
 - Docker
 - AI APIs
-- Cybersecurity fundamentals
+- Cybersecurity Fundamentals
 
 ---
 
