@@ -163,4 +163,3 @@ REST APIs
 Next.js
  ↓
 Full-Stack Development
- burda ne sef oldu indi
