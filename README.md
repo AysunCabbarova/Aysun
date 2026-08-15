@@ -38,17 +38,7 @@
 
 </div>
 
-### Technologies
 
-- Node.js
-- Express.js
-- Python
-- Django
-- FastAPI
-- REST API Development
-- Authentication
-- CRUD Applications
-- Server-side Development
 
 ---
 
